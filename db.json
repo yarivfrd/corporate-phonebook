@@ -1,0 +1,5 @@
+{"employees":[
+    {"id":0,"firstName":"James", "lastName":"Howlett", "position":"Wolverine", "mobile":"111-1111111", "work":"00-0000000","avatar":"img/james.jpg"},
+    {"id":1,"firstName":"Charles", "lastName":"Xavier", "position":"Professor X", "mobile":"111-1111111", "work":"00-0000000","avatar":"img/charles.jpg"},
+    {"id":2,"firstName":"Ororo", "lastName":"Munroe", "position":"Storm", "mobile":"111-1111111", "work":"00-0000000","avatar":"img/ororo.jpg"}
+  ]}
